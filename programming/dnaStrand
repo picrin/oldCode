@@ -1,0 +1,5 @@
+
+class DnaStrand(object, dnaIterable):
+	def __init__(self, genes):
+		super.__init__(genes)
+		self.genes = super.dnaPieces

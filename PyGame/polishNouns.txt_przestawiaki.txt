@@ -1,0 +1,616 @@
+woda
+	owad
+rok
+	kor
+torf
+	fort
+traf
+	fart
+trud
+	drut
+tul
+	lut
+al
+	la
+alt
+	tal
+atak
+	kata
+cel
+	lec
+detal
+	delta
+filtr
+	flirt
+galon
+	angol
+garb
+	grab
+glob
+	blog
+grad
+	drag
+grat
+	targ
+jar
+	raj
+kadr
+	kard
+kamlot
+	klamot
+karp
+	park
+kat
+	akt
+kelner
+	kernel
+kis
+	ksi
+klin
+	link
+kobalt
+	blotka
+koks
+	skok
+konus
+	sukno
+log
+	gol
+mur
+	rum
+mus
+	sum
+opal
+	pola
+pik
+	kip
+potas
+	stopa
+rabat
+	barta
+rad
+	dar
+respekt
+	ekspert
+sol
+	los
+Dania
+	Diana
+ćma
+	mać
+czapka
+	paczka
+abucht
+	buchta
+lato
+	atol
+czas
+	szac
+dolina
+	adinol
+jara
+	raja
+jarecka
+	reakcja
+kit
+	tik
+samara
+	masara
+towar
+	wrota
+gidea
+	egida
+gira
+	irga
+gzika
+	gazik
+kasta
+	taksa
+kluka
+	kulka
+szut
+	tusz
+skiba
+	biksa
+klient
+	letnik
+kod
+	dok
+serwer
+	rewers
+argon
+	organ
+beryl
+	bryle
+brom
+	romb
+iterb
+	biret
+osm
+	som
+samar
+	maras
+tantal
+	atlant
+uran
+	urna
+koper
+	poker
+ksero
+	okres
+lupa
+	pula
+kawaler
+	rewalka
+noga
+	agon
+gra
+	gar
+butelka
+	bluetka
+banka
+	kaban
+kara
+	arka
+szolka
+	kalosz
+garbus
+	grubas
+albatros
+	astrolab
+alga
+	laga
+amator
+	ramota
+Ariadna
+	Adriana
+batik
+	batki
+zbrodnia
+	bandzior
+entropia
+	proteina
+fama
+	amfa
+wietrzyk
+	rekwizyt
+kula
+	luka
+galeria
+	alergia
+gamma
+	magma
+kartka
+	kratka
+godzina
+	gniazdo
+grabie
+	bagier
+grupa
+	purga
+samiec
+	samice
+motel
+	omlet
+grabarz
+	garbarz
+panda
+	napad
+pointer
+	poniter
+reszta
+	areszt
+pupa
+	papu
+real
+	rela
+salto
+	latos
+sofa
+	fosa
+sport
+	strop
+burak
+	burka
+fajek
+	kafej
+ypsilon
+	ipsylon
+mors
+	srom
+bard
+	drab
+basok
+	bosak
+bryna
+	byrna
+achy
+	hyca
+broda
+	bardo
+bagno
+	goban
+baran
+	narba
+fura
+	rufa
+szpilka
+	pliszka
+patelnia
+	entalpia
+skarpeta
+	pasterka
+Polak
+	Polka
+rasizm
+	szmira
+sok
+	kos
+pisarz
+	psiarz
+unikat
+	tunika
+Angielka
+	Angelika
+krzywa
+	zrywka
+agar
+	gara
+andrut
+	tundra
+kinol
+	nikol
+mazojen
+	majonez
+karakan
+	ankarka
+banerka
+	baranek
+fanga
+	afgan
+kanka
+	kanak
+kordła
+	kołdra
+fifka
+	fifak
+nastojka
+	stojanka
+pała
+	łapa
+bajer
+	breja
+baniaczek
+	bieczanka
+chabal
+	blacha
+świrek
+	świerk
+szkira
+	riksza
+stała
+	atłas
+kazus
+	kusza
+niewiasta
+	stawianie
+świat
+	świta
+ocean
+	ocena
+robotnik
+	obrotnik
+koza
+	zoka
+cipa
+	ciap
+aukcja
+	kaucja
+palacz
+	czapla
+skała
+	łaska
+koparka
+	pokraka
+arbuz
+	burza
+obszar
+	brosza
+opiłek
+	piekło
+wrak
+	karw
+koma
+	amok
+paka
+	kapa
+gulik
+	kulig
+krauza
+	kazuar
+pirat
+	tapir
+kreda
+	derka
+barak
+	barka
+odwołanie
+	dołowanie
+absurd
+	brudas
+kawał
+	ławka
+reklama
+	makrela
+chałka
+	kałach
+lotka
+	katol
+olcha
+	locha
+aftarka
+	afrakta
+doległość
+	odległość
+armia
+	miara
+grabia
+	airbag
+kacerz
+	raczek
+tokarka
+	aktorka
+jedynka
+	jedynak
+łagoda
+	ogłada
+łodzia
+	działo
+debit
+	bidet
+nikotyna
+	antykino
+pralka
+	kapral
+obrotnica
+	robotnica
+tarta
+	tatar
+teren
+	enter
+zalotka
+	laktoza
+plecak
+	placek
+wybór
+	wyrób
+bród
+	drób
+plecy
+	cypel
+lampka
+	plamka
+manamka
+	ammanka
+berlinka
+	bernikla
+sraka
+	kasar
+Wilno
+	Wolin
+Mali
+	Mila
+marina
+	armina
+cnota
+	octan
+łopata
+	opłata
+strzęp
+	sprzęt
+Kair
+	Kira
+inkaso
+	sionka
+etalon
+	etanol
+Karina
+	Kraina
+Parys
+	Psary
+namiot
+	amonit
+wasal
+	salwa
+oddanie
+	adenoid
+szkuner
+	sznurek
+ket
+	tek
+trunek
+	kutner
+karniak
+	krainka
+fanka
+	nakfa
+okular
+	rukola
+etologia
+	teologia
+prostak
+	sportka
+wiśnia
+	świnia
+staw
+	swat
+portier
+	pierrot
+wyro
+	wory
+sufiks
+	fiskus
+mankiet
+	mitenka
+kobra
+	robak
+dokowanie
+	kodowanie
+akmon
+	manko
+porno
+	ponor
+kita
+	kiat
+darń
+	drań
+szakal
+	szalka
+alwar
+	larwa
+domra
+	morda
+belka
+	kabel
+bryt
+	tryb
+animek
+	anemik
+akwarela
+	karawela
+sarangi
+	sangria
+afta
+	tafa
+odnoszenie
+	donoszenie
+alka
+	laka
+notes
+	sonet
+unieszczęśliwianie
+	nieuszczęśliwianie
+odpowiadanie
+	dopowiadanie
+unieszczęśliwienie
+	nieuszczęśliwienie
+kanion
+	konina
+zarobek
+	obrazek
+kurtyna
+	turynka
+linka
+	alkin
+kragiel
+	alergik
+kutas
+	katus
+pszonka
+	pszonak
+gardinka
+	kardigan
+kulczyk
+	kluczyk
+manat
+	amant
+akonit
+	kation
+etos
+	oset
+dopierdalanie
+	odpierdalanie
+kończyna
+	naczyńko
+niedopierdalanie
+	nieodpierdalanie
+niedopowiadanie
+	nieodpowiadanie
+niezdanie
+	nadzienie
+nieodnoszenie
+	niedonoszenie
+niepływanie
+	wypełnianie
+akr
+	rak
+	kra
+bala
+	alba
+	laba
+bark
+	brak
+	krab
+katar
+	karat
+	karta
+pokal
+	polka
+	polak
+post
+	stop
+	spot
+renoma
+	menora
+	morena
+aktyn
+	yntka
+	antyk
+bal
+	alb
+	lab
+aut
+	atu
+	tau
+ekran
+	ranek
+	nerka
+fala
+	alfa
+	lafa
+lima
+	mali
+	mila
+lira
+	rial
+	lari
+rybka
+	bryka
+	rybak
+laska
+	klasa
+	skala
+plus
+	puls
+	slup
+palma
+	lampa
+	plama
+ramka
+	marka
+	karma
+ranka
+	kanar
+	ankra
+fara
+	arfa
+	rafa
+abort
+	torba
+	borta
+masło
+	słoma
+	smoła
+gwara
+	warga
+	gawra
+plask
+	skalp
+	klaps
+kurak
+	kurka
+	karuk
+karo
+	kora
+	orka
+	okra

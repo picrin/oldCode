@@ -1,0 +1,53 @@
+    
+     Exercise 3a: Linked Lists and Recursive Programming
+                    Hints and Tips
+
+
+ 
+
+ 1. when implementing the count method have a look at the method length
+    This can be used as a template
+
+ 2. equal? when are two lists (l1 and l2) equal? they are equal when ...
+
+    they are both empty OR 
+    they are both not empty AND head(l1) == head(l2) AND their tails are equal
+
+    Have a look at the method exists for inspiration. 
+
+ 3. the nth method, don't use length! If you do you get O(n^2) performance
+    How to get the nth? well ...
+
+    if list is empty throw an exception (get that out the way)
+    if n = 0 then we deliver the head of the list
+    otherwise return the n-1th item in the tail of the list
+
+ 4. insert(e,l)? See delete for inspiration!!! 
+
+    if l is empty deliver a new list with e as head and null as tail
+    if e < head(l) deliver a new list with e as head and l as tail
+    if e >= head(l) deliver a new list with head(l) as its head and with tail (insert e into the tail(l))
+     
+
+ 5. sort? insertion sort!! How do I do that
+
+    insert the head of the list into its sorted tail. 
+
+ 6. append(l1,l2) ... 
+
+    if l1 is empty deliver l2
+    otherwise return a new list that has as head the head(l1) and as
+    tail the append of the tail of l1 with l2.
+
+ 7. max? you know we have Math.max? yes? so how to compute max of a list
+
+    if the list is empty throw an exception (got that out of the way)
+    if tail of the list is empty deliver the head of the list
+    otherwise deliver the Math.max of the head of the list with the max of the tail of the list
+
+NOTE: beware of length(l). It is O(n). If you use that in a recursive function you could end up
+      with O(n^2) behaviour.
+
+Tip: If you wonder what's happening put a print into your method to show the parameters/arguments
+     to see what's happening as recursion proceeds.
+

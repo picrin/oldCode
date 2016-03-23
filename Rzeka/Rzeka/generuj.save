@@ -1,0 +1,3 @@
+python .
+/Scripts/rzeka.py Scripts/Polish/polishDic_firsts Scripts/Polish/polishDic_nextOne slowaNaDzis
+sleep 9999999

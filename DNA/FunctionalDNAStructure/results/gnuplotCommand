@@ -1,0 +1,2 @@
+plot "./100000PlusHeapWorks.dat" with lines, "./100000LinearWithBinarySearchWorks.dat" with lines;
+cat
