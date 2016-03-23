@@ -1,0 +1,9 @@
+Java Programming 2
+A Mon 13:00 15:00
+B Mon 15:00 17:00
+C Tue 13:00 15:00
+D Tue 15:00 17:00
+E Wed 14:00 16:00
+F Wed 15:00 17:00
+G Thur 13:00 15:00
+H Thur 15:00 17:00
